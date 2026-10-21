@@ -1,0 +1,5 @@
+Q1: 72cbca06
+Q2: 3
+Q3: git pull origin main, because git prevents me from overrighting someones work, i use this to donload their commits and merge them
+Q4: no it all stops Git from tracking future changes, the password is permanently exposed in the commit history
+Q5: git branch -d old-fix and git push origin --delete old-fix
